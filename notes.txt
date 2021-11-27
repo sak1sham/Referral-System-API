@@ -1,0 +1,8 @@
+POST /api/enroll{details} ----> Creates a user with these details
+GET /api/referralCode{email} ----> Returns the referral code of the user
+GET /api/referralHistory{email} ----> returns the referral History of user
+GET /api/milestones{email} ----> returns the overall milestones set by the admin, along with if milestones are already achieved by user
+POST /api/withdraw{email} ----> Deletes the user from the database
+POST /api/addMilestone ----> Creates a milestone with these details
+
+Overall, returns status code 201 if successful, and 404 if not successful.
