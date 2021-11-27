@@ -18,6 +18,11 @@ pip install -r requirements.txt
 
 It would be better to use some API Platform with proper interface, like [Postman](https://www.postman.com/downloads/). However, other ways may work equally good.
 
+Run the Code using
+```bash
+python3 api.py
+```
+
 ### Adding a New User
 Returns nothing. Just adds the user to the system if the details are valid.
 ```python
