@@ -68,4 +68,4 @@ The API returns status code 201 if successful, and 404 if not successful. The re
 ## Collections Schema
 
 We have created the following collections within MongoDB database ```API```:
-![Database Schema](./Explanation/Schema Planning.png)
+![Database Schema](https://github.com/sak1sham/Referral-System/blob/main/Explanation/Schema%20Planning.png)
