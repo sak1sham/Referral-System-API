@@ -1,4 +1,4 @@
-# Referral System (Grofers)
+# Referral System
 
 This is the API for the referral system. It's built using flask (python3) and MongoDB.
 
